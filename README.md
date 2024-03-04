@@ -33,3 +33,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ng g m budget-planner --routing
 
 ng g c login
+
+## Instalar o Angular Material
+
+importar o Icon
+
+## Criou-se um modulo:
+
+ng g c side-nav
